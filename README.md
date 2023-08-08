@@ -19,4 +19,6 @@ test_recent_played_songs.py - contains tests to validate the logic inside the so
 ----------------------------------------------------------------------------------------------------
 RUN Instruction :
 Clone the repo "Assessment-TestVagrant" to your local machine.
-Simply run test_recent_played_songs.py file using command : python test_recent_played_songs.py
+Go to Assessment-TestVagrant directory.
+Open Terminal inside this directory.
+Run test_recent_played_songs.py file using command : python test_recent_played_songs.py
